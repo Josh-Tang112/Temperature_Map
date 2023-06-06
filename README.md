@@ -41,4 +41,4 @@ After you click, there are three possibilities.
 <br>
 
 You can also click on another point after you finish viewing the temperature graph.
-![2Click HTML](./images/see_then_click.png)
+![2Click HTML](./image/see_then_click.png)
