@@ -23,9 +23,9 @@ If you don't want to run the server on your local computer, you can run the Jupy
 
 ## How to Use
 After you type and hit enter in the address bar, the web server will bring to this page. <br>
-![Start HTML](./images/start.png)  
+![Start HTML](./image/start.png)  
 You can click anywhere on the map. After you click, there will be a marker appearing on where you click. Click the marker, and it will bring up a link you can use. <br>
-![Click HTML](./images/click.png)  
+![Click HTML](./image/click.png)  
 After you click, there are three possibilities. 
 1. NECI does not have data for the area you click.
 2. NECI only has part of the data
@@ -33,11 +33,11 @@ After you click, there are three possibilities.
 <br>
 
 **No data**
-![No HTML](./images/no_temp.png)
+![No HTML](./image/no_temp.png)
 **Partial data**
-![Part HTML](./images/one_temp.png)
+![Part HTML](./image/one_temp.png)
 **Full data**
-![Full HTML](./images/two_temp.png)
+![Full HTML](./image/two_temp.png)
 <br>
 
 You can also click on another point after you finish viewing the temperature graph.
