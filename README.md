@@ -19,6 +19,7 @@ IP:{port}/mark
 in the address bar, where IP is you IP address or domain name and {port} is the number you entered above. <br>
 Use Control + C to stop the server.<br> 
 WARNING: the provided Django code is not a production server. There are no guarantee for the security of the server. <br>
+### Other Means of Using the Software
 If you don't want to run the server on your local computer, you can run the Jupyter notebook 'Weather_Map.ipynb' in Google Colab by clicking the "Open in Colab" when you open the notebook in Github.  
 
 ## How to Use
