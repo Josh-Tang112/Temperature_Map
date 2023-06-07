@@ -24,7 +24,7 @@ def TempView(request, coord):
     folium.ClickForMarker(html).add_to(m)
     if res == 1:        # put the image into iframe
         encoded = base64.b64encode(open("./temperature/lol.jpg", 'rb').read())
-        html = '<img src="data:image/jgg;base64,{}">'.format
+        html = '<img src="data:image/jpg;base64,{}">'.format
         iframe = folium.IFrame(html(encoded.decode('UTF-8')), width=950, height=520)
 
     else:
